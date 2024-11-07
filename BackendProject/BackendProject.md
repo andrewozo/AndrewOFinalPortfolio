@@ -29,11 +29,11 @@ As this was a backend-only project, my tasks included:
 
 This app was a solo project, so I had to set up everything myself, including making the connection to the database, creating the models, setting up the associations to other models, and creating the API routes.
 
-<p><strong>Account model</strong> which has associations to User, Budget, and Transaction</p>
+<p><u><strong>Account model</strong> which has associations to User, Budget, and Transaction</u></p>
 <img src="../BackendProject/ImagesBP/AccountScreenshot.png" alt="Account model screenshot" />
 
-<p><strong>Service Method</strong> for creating a new account, which will then be called by the API to create the account in the database</p>
+<p><u><strong>Service Method</strong> for creating a new account, which will then be called by the API to create the account in the database</u></p>
 <img src="../BackendProject/ImagesBP/AddNewAccount.png" alt="Add new account service method" />
 
-<p><strong>Method</strong> that creates a user and hashes and salts the password for protection</p>
+<p><u><strong>Method</strong> that creates a user and hashes and salts the password for protection</u></p>
 <img src="../BackendProject/ImagesBP/UserRegisterMethod.png" alt="User registration method with password hashing and salting" />
