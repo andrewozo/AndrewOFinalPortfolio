@@ -15,5 +15,11 @@ As this was a backend-only project, my tasks included:
 - **Creating models**: Developed multiple models to represent entities such as accounts, transactions, and users.
 - **Implementing CRUD operations**: Developed methods to create, read, update, and delete records for each model.
 - **Building API endpoints**: Created API endpoints to interact with the database and call these methods, enabling users to:
+
   - Perform various actions on their accounts.
   - View personalized account and transaction details.
+
+  Action
+  This app was a solo project so I had to setup everything myself like making the connection to the Database, creating the models and setting up the associations to other models, creating the API routes.
+
+  ![Account Model](Backend Project/BackendProject.md)
