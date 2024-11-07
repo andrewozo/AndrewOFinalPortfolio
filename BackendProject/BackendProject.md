@@ -28,4 +28,8 @@ As this was a backend-only project, my tasks included:
 Action
 This app was a solo project so I had to setup everything myself like making the connection to the Database, creating the models and setting up the associations to other models, creating the API routes.
 
+Account model which has associations to User,Budget,Transaction
 <img src = "../BackendProject/ImagesBP/AccountScreenshot.png" />
+
+Service Method for creating a new account which will then be called by the api to create the account in the database
+<img src = "../BackendProject/ImagesBP/AddNewAccount.png" />
