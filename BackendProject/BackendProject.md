@@ -25,14 +25,15 @@ As this was a backend-only project, my tasks included:
     </li>
 </ul>
 
-Action
-This app was a solo project so I had to setup everything myself like making the connection to the Database, creating the models and setting up the associations to other models, creating the API routes.
+## Action
 
-Account model which has associations to User,Budget,Transaction
-<img src = "../BackendProject/ImagesBP/AccountScreenshot.png" />
+This app was a solo project, so I had to set up everything myself, including making the connection to the database, creating the models, setting up the associations to other models, and creating the API routes.
 
-Service Method for creating a new account which will then be called by the API to create the account in the database
-<img src = "../BackendProject/ImagesBP/AddNewAccount.png" />
+<p><strong>Account model</strong> which has associations to User, Budget, and Transaction</p>
+<img src="../BackendProject/ImagesBP/AccountScreenshot.png" alt="Account model screenshot" />
 
-Method that creates user and hashes and salts the password for protection
-<img src = "../BackendProject/ImagesBP/UserRegisterMethod.png" />
+<p><strong>Service Method</strong> for creating a new account, which will then be called by the API to create the account in the database</p>
+<img src="../BackendProject/ImagesBP/AddNewAccount.png" alt="Add new account service method" />
+
+<p><strong>Method</strong> that creates a user and hashes and salts the password for protection</p>
+<img src="../BackendProject/ImagesBP/UserRegisterMethod.png" alt="User registration method with password hashing and salting" />
