@@ -28,4 +28,4 @@ As this was a backend-only project, my tasks included:
 Action
 This app was a solo project so I had to setup everything myself like making the connection to the Database, creating the models and setting up the associations to other models, creating the API routes.
 
-<img src = "Backend Project/ImagesBP/AccountScreenshot - Copy.png" />
+<img src = "Backend Project/ImagesBP/AccountScreenshot.png" />
