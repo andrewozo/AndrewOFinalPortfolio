@@ -31,5 +31,8 @@ This app was a solo project so I had to setup everything myself like making the 
 Account model which has associations to User,Budget,Transaction
 <img src = "../BackendProject/ImagesBP/AccountScreenshot.png" />
 
-Service Method for creating a new account which will then be called by the api to create the account in the database
+Service Method for creating a new account which will then be called by the API to create the account in the database
 <img src = "../BackendProject/ImagesBP/AddNewAccount.png" />
+
+Method that creates user and hashes and salts the password for protection
+<img src = "../BackendProject/ImagesBP/UserRegisterMethod.png" />
