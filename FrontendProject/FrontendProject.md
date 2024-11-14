@@ -43,10 +43,10 @@ This app was a solo project, so I had to set up everything myself, including cre
 ## Job Competencies
 
 <p><strong>JF 2.3 Can develop effective user interfaces</strong><br>
-</p>
+For this project I developed and designed all the pages needed to be able to display data and also pages that were forms intaking the data.</p>
 
 <p><strong>JF 2.5 Can implement a responsive User Interface</strong><br>
-</p>
+I also implemented the functionality for these pages that allow the user to be able to see the data specific to them and to be able to create new transactions through the new transaction form and see their information get updated in real time.</p>
 
 <p><strong>JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges</strong><br>
-</p>
+This was a solo project using a technology that was new to me. Throughout the project, I encountered various challenges, such as properly displaying and integrating data. Given that I will be using this technology in my daily work, I focused on overcoming these challenges to enhance my skills and ensure continuous improvement.</p>
