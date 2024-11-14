@@ -41,3 +41,11 @@ This app was a solo project, so I had to set up everything myself, including mak
 Result
 
 <a href = "https://github.com/andrewozo/PersonalFinanceManagementProject">Repo Link</a>
+
+Job Competencies
+
+JF 3.6 Can implement a RESTful API
+
+JF 3.7 Can implement authentication and authorization to an API
+
+JF 3.8 Can encrypt sensitive data via hashing
