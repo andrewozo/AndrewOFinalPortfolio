@@ -45,6 +45,7 @@ Result
 Job Competencies
 
 JF 3.6 Can implement a RESTful API
+In this project I had endpoints like GET, POST, PUT,DELETE that when called would send requests to the database and data in the form of JSON would be returned.
 
 JF 3.7 Can implement authentication and authorization to an API
 
