@@ -37,3 +37,7 @@ This app was a solo project, so I had to set up everything myself, including mak
 
 <p> --<strong>Method</strong> that creates a user and hashes and salts the password for protection</p>
 <img src="../BackendProject/ImagesBP/UserRegisterMethod.png" alt="User registration method with password hashing and salting" />
+
+Result
+
+<a href = "https://github.com/andrewozo/PersonalFinanceManagementProject">Repo Link</a>
