@@ -38,15 +38,17 @@ This app was a solo project, so I had to set up everything myself, including mak
 <p> --<strong>Method</strong> that creates a user and hashes and salts the password for protection</p>
 <img src="../BackendProject/ImagesBP/UserRegisterMethod.png" alt="User registration method with password hashing and salting" />
 
-Result
+## Result
 
 <a href = "https://github.com/andrewozo/PersonalFinanceManagementProject">Repo Link</a>
 
-Job Competencies
+## Job Competencies
 
-JF 3.6 Can implement a RESTful API
-In this project I had endpoints like GET, POST, PUT,DELETE that when called would send requests to the database and data in the form of JSON would be returned.
+<p><strong>JF 3.6 Can implement a RESTful API</strong><br>
+In this project, I had endpoints like GET, POST, PUT, and DELETE that, when called, would send requests to the database and return data in the form of JSON.</p>
 
-JF 3.7 Can implement authentication and authorization to an API
+<p><strong>JF 3.7 Can implement authentication and authorization to an API</strong><br>
+In order for a user to access the API, they would need to have proper authorization. Without it, they would not be able to make API calls. To gain access, the user would have to create an account, and after creating an account and signing in, a token would be generated that would allow them to make API calls.</p>
 
-JF 3.8 Can encrypt sensitive data via hashing
+<p><strong>JF 3.8 Can encrypt sensitive data via hashing</strong><br>
+Whenever a new user creates an account, their password is hashed and salted before being stored in the database.</p>
