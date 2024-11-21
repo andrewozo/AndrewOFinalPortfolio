@@ -40,6 +40,12 @@ This app was a solo project, so I had to set up everything myself, including cre
 
 <a href = "https://github.com/andrewozo/Financial-Tracker-Mendix">Repo Link</a>
 
+# Technologies
+
+<ul>
+    <li>Mendix</li>
+</ul>
+
 ## Job Competencies
 
 <p><strong>JF 2.3 Can develop effective user interfaces</strong><br>

@@ -42,6 +42,13 @@ This app was a solo project, so I had to set up everything myself, including mak
 
 <a href = "https://github.com/andrewozo/PersonalFinanceManagementProject">Repo Link</a>
 
+# Technologies
+
+<ul>
+    <li>C#</li>
+    <li>.NET</li>
+</ul>
+
 ## Job Competencies
 
 <p><strong>JF 3.6 Can implement a RESTful API</strong><br>

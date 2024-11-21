@@ -30,6 +30,15 @@ During the project I worked on and implemented things like:
 
 <a href = "https://github.com/multiverse-red-team/inventory-app/tree/main">Inventory App Repository Link</a>
 
+# Technologies
+
+<ul>
+    <li>React</li>
+    <li>Express</li>
+    <li>SQLite</li>
+    <li>Sequelize</li>
+</ul>
+
 ## Job Competencies
 
 <p><strong>JF 1.5 Can work effectively and contribute appropriately on a team to produce software</strong><br>

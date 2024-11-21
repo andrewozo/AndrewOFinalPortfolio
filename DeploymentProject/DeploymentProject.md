@@ -32,6 +32,15 @@ This was a solo project, so I had to setup the Azure SQL Database and making sur
 
 <a href = "https://github.com/andrewozo/PersonalFinanceManagementProject">Deployment/Backend Project Repository Link</a>
 
+# Technologies
+
+<ul>
+    <li>C#</li>
+    <li>.NET</li>
+    <li>GitHub Actions</li>
+    <li>Azure</li>
+</ul>
+
 ## Job Competencies
 
 <p><strong>JF 4.3 Is able to build, manage and deploy code into the relevant environment</strong><br>
