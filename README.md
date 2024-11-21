@@ -7,7 +7,6 @@ This repository is a collection of some of my key learnings during my 2023 - 202
 
 - **Host Company**: TRS NYC
 - **Duration**: 15 Months
-- **Link to Portfolio Website**:
 
 ## Portfolio Introduction
 
