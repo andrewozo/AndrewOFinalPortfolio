@@ -2,6 +2,7 @@
 
 This repository is a collection of some of my key learnings during my 2023 - 2024 apprenticeship at TRS NYC.
 <img src="../Images/TRSLogo.png" alt="TRS Logo" />
+<img src="../InventoryApp/ImagesIP/BackendRouteItems.png" alt="Backend Routes" />
 
 ## Overview of Apprenticeship
 
