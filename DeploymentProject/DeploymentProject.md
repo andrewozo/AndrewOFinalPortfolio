@@ -12,8 +12,6 @@ For the deployment module, I decided to build on top of my backend module projec
 
 ## Task
 
-This project was created for the front end module using mendix but also has a backend allowing it to communicate with the database to help store the neccessary data. My tasks for this project included:
-
 The main part to this project was the deployment part as the backend was already from a previous project, the tasks for this project included:
 
 <ul>
