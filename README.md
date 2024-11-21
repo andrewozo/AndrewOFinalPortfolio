@@ -1,6 +1,7 @@
 # Andrew Ozoria Final Portfolio
 
 This repository is a collection of some of my key learnings during my 2023 - 2024 apprenticeship at TRS NYC.
+<img src="../Images/TRSLogo.png" alt="TRS Logo" />
 
 ## Overview of Apprenticeship
 
