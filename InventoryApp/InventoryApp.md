@@ -21,10 +21,10 @@ This was the first project that we worked on for the aprrenticeship, and it had 
 During the project I worked on and implemented things like:
 
 <p> --<strong>Backend Routes For Item</strong>Snippet of the CRUD Routes for the Item model in the Backend </p>
-<img src="../Inventory/ImagesIP/BackendRouteItems.png" alt="Backend Routes" />
+<img src="../InventoryApp/ImagesIP/BackendRouteItems.png" alt="Backend Routes" />
 
 <p> --<strong>React Component for the Add Items Form</strong>This is the React Component that would allow the user to add items to the inventory</p>
-<img src="../Inventory/ImagesIP/AddItemForm.png" alt="Backend Routes" />
+<img src="../InventoryApp/ImagesIP/AddItemForm.png" alt="Backend Routes" />
 
 ## Result
 
